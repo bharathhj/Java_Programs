@@ -2,7 +2,7 @@ package com.company.Accolite;
 
 public class ArrayOneCount {
     public static void main(String args[]){
-        int[] arr = {0, 1, 1, 0};
+        int[] arr = {0, 1, 0, 0};
         if(arr.length<3){
             System.out.println("Invalid Input");
         }
